@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Credit Card Fraud Detection",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a credit card fraud detection model with 97.3% accuracy, utilizing resampling techniques and MLPClassifier to handle class imbalance and improve fraud detection.",
+    "skills": ["Python", "Data Analysis", "Jupyter Notebook"],
+    "source": "https://github.com/tasfihasaba/Credit-Card-Fraud-Detection-"
+  },
+  {
+    "title": "Minesweeper",
+    "imageSrc": "projects/project.png",
+    "description": "The Minesweeper project is a Java-based game that generates a grid with hidden bombs, calculates adjacent bomb counts, and provides an interactive GUI using Swing.",
+    "skills": ["Java", "Java Swing", "Eclipse"],
+    "source": "https://github.com/tasfihasaba/Minesweeper"
+  },
+  {
+    "title": "Real-time COVID-19 Data Web Scraping",
+    "imageSrc": "projects/project.png",
+    "description": "This project scrapes real-time COVID-19 data from the Worldometer website, processes it, and stores it in a cleaned Pandas DataFrame for analysis.",
+    "skills": ["Python", "Web Scraping", "Jupyter Notebook"],
+    "source": "https://github.com/tasfihasaba/Web-Scraping-Real-time-Data/tree/main?tab=readme-ov-file#real-time-covid-19-data-web-scraping"
+  }
+]

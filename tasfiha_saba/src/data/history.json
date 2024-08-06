@@ -1,0 +1,40 @@
+[
+  {
+    "role": "IT Fellow",
+    "organisation": "MTA",
+    "startDate": "Jun, 2023",
+    "endDate": "May, 2024",
+    "experiences": ["Managed support tickets with ServiceNow", "Reduced unsupported devices by 30%"],
+    "imageSrc": "history/mta.png"
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "AfrobeatRadio",
+    "startDate": "Jun, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": ["Launched a website, doubling traffic", "Improved infrastructure, speeding response by 25%"],
+    "imageSrc": "history/afrobeatradio.png"
+  },
+  {
+    "role": "Machine Learning/ AI Intern",
+    "organisation": "Cornell Tech",
+    "startDate": "Jun, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Refined data preprocessing techniques",
+      "Analyzed data to uncover hidden patterns, improving model performance by 40%"
+    ],
+    "imageSrc": "history/cornell.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Morgan Stanley",
+    "startDate": "Jan, 2022",
+    "endDate": "Jan, 2022",
+    "experiences": [
+      "Developed PowerShell module for DLP integration",
+      "Increased detection accuracy by 75%"
+    ],
+    "imageSrc": "history/morgan.png"
+  }
+]
